@@ -1,2 +1,2 @@
-# JavaScript-Exashare-API
- A Web Service for the Exashare API
+# JavaScript-YouWatch-API
+ A Web Service for the YouWatch API
