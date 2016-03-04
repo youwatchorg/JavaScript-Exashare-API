@@ -150,7 +150,7 @@ var YouWatchAPI = {
             param += '&' + row + '=' + hash[row];
         }
         
-        var url = 'http://youwatch/cgi-bin/xapi.cgi';
+        var url = 'http://youwatch.org/cgi-bin/xapi.cgi';
         url += param != null ? '?'+param : '';
         
         request.open('GET', url, true);
