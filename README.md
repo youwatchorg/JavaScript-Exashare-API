@@ -1,8 +1,8 @@
 # JavaScript-YouWatch-API
  A Web Service for the YouWatch API
  
- ## VERSION API
-0.01
+## VERSION API
+0.02
 
 Account Info
 ------------
